@@ -1,0 +1,11 @@
+duckdb
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+jupyter
+imbalanced-learn
+xgboost
+plotly
+openpyxl
