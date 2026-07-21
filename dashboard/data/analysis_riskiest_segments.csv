@@ -1,0 +1,11 @@
+NAME_CONTRACT_TYPE,NAME_INCOME_TYPE,credit_risk_band,applicants,default_rate_pct,risk_rank
+Cash loans,Working,Medium Risk,28022,11.38,1
+Cash loans,Working,High Risk,42951,10.75,2
+Cash loans,Working,Low Risk,24770,9.72,3
+Cash loans,Commercial associate,Medium Risk,13163,8.81,4
+Cash loans,Working,Very High Risk,40248,8.56,5
+Cash loans,Commercial associate,High Risk,19363,8.23,6
+Cash loans,Commercial associate,Low Risk,11615,7.95,7
+Cash loans,Working,Very Low Risk,6728,7.89,8
+Revolving loans,Working,Low Risk,7146,7.05,9
+Cash loans,State servant,Medium Risk,3424,7.01,10

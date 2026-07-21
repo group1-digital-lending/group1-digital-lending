@@ -1,0 +1,6 @@
+payment_behaviour,applicants,default_rate_pct
+1. Never Late,136644,6.8
+2. Rarely Late (<5%),38987,6.92
+3. Sometimes Late (5-20%),76255,9.34
+4. Often Late (20-50%),36609,11.64
+5. Mostly Late (>50%),3148,15.82
