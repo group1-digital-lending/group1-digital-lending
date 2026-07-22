@@ -1,11 +1,3 @@
-duckdb
-pandas
-scikit-learn
-matplotlib
-seaborn
 streamlit
-jupyter
-imbalanced-learn
-xgboost
+pandas
 plotly
-openpyxl
